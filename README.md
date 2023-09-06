@@ -6,10 +6,10 @@
 - 💬 Ask me about who Batman really is 🦇
 - 🤢 I strongly dislike glowing green rocks
 - ⚡ Fun fact , AI is not the future , Its the present . Happining now! 
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rivalsolmons)  
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rivalsolmons)
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rivalsolmons&theme=radical&card_width=800)  
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rivalsolmons&theme=radical&card_width=800)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rivalsolmons&theme=radical&card_width=800)](https://git.io/streak-stats)
-![Github Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rivalsolmons)
+![Github Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rivalsolmons&theme=radical&card_width=800)
 <!--
 **rivalsolmons/rivalsolmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

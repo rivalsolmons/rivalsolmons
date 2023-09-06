@@ -11,7 +11,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rivalsolmons&theme=radical&card_width=800)](https://git.io/streak-stats)
 ![Github Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rivalsolmons)
 <!--
-**clarkthesuper/clarkthesuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rivalsolmons/rivalsolmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

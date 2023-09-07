@@ -9,6 +9,7 @@
 ![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rivalsolmons&theme=radical&card_width=800)  
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rivalsolmons&theme=radical&card_width=800)
 ![Github Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rivalsolmons&theme=radical&card_width=800)
+<a href="https://github.com/getlost01/github-stats&theme=radical&card_width=800"></a>
 <!--
 **rivalsolmons/rivalsolmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

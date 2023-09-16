@@ -1,6 +1,10 @@
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif width="200"/>
+
+
 ### Hi there , welcome to my personal workspace
 ## Hi there friends 👋
-
+</div>
 - 🔭 I’m currently working on microservices based healthcare projects
 - 🤔 I’m looking for help with defeating the challenges.
 - 💬 Ask me about who Batman really is 🦇

@@ -11,14 +11,13 @@
 - 💬 Ask me about who Batman really is 🦇
 - 🤢 I strongly dislike glowing green rocks
 - ⚡ Fun fact , AI is not the future , Its the present . Happining now! 
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=rivalsolmons&theme=radical&card_width=800)  
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=rivalsolmons&theme=radical&card_width=800)
-![Github Stats 4](https://github-readme-activity-graph.vercel.app/graph?username=rivalsolmons&theme=github-compact&hight=200&radius=10)
-![Github Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=rivalsolmons&theme=radical&card_width=800&line=pink)
+![Github Stats Sandeepak](https://github-readme-stats.vercel.app/api?username=rivalsolmons&theme=radical&card_width=800)  
+![Github Stats Sandeepak](https://github-readme-streak-stats.herokuapp.com/?user=rivalsolmons&theme=radical&card_width=800)
+![Github Stats Sandeepak](https://github-readme-stats.vercel.app/api/top-langs/?username=rivalsolmons&theme=radical&card_width=800&line=pink)
 
 <!--
 **rivalsolmons/rivalsolmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Github Stats 4](https://github-readme-activity-graph.vercel.app/graph?username=rivalsolmons&theme=github-compact&hight=200&radius=10)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -6,8 +6,8 @@
 ## Hi there friends 👋
 </div>
 
-- 🔭 I’m currently working on microservices based healthcare projects
-- 🤔 I’m looking for help with defeating the challenges.
+- 🔭 I’m currently working on healthcare projects with leading microservices
+- 🤔 I’m looking for collabortion with defeating the challenges.
 - 💬 Ask me about who Batman really is 🦇
 - 🤢 I strongly dislike glowing green rocks
 - ⚡ Fun fact , AI is not the future , Its the present . Happining now! 

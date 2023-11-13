@@ -7,7 +7,7 @@
 </div>
 
 - 🔭 I’m currently working on healthcare projects with leading microservices
-- 🤔 I’m looking for collabortion with defeating the challenges.
+- 🤔 Always open for collabortion with defeating the challenges.
 - 💬 Ask me about who Batman really is 🦇
 - 🤢 I strongly dislike glowing green rocks
 - ⚡ Fun fact , AI is not the future , Its the present . Happining now! 
